@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "X7d2BXZsZMPkJoB4a8zeMaPswdj1gU6hD3UKqMGuZDmcxc8"
+      }
+    }
+  ],
+  "payId": "tip$pandasobao.github.io"
+}
